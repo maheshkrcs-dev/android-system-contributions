@@ -9,4 +9,10 @@ Before transitioning to Cloud & NLP Research, my technical journey started with 
 * **Community Contribution:** Maintained a repository on **AndroidFileHost** to share optimized resources with the enthusiast community.
 
 ### 📸 Proof of Contributions
-*(Screenshots uploaded to this repository highlight my developer profile and supported devices on AndroidFileHost)*
+*(Screenshots showing my developer profile and supported devices on AndroidFileHost)*
+
+<p align="center">
+  <img src="screenshots/1000056925.png" width="30%" />
+  <img src="screenshots/1000056926.png" width="30%" /> 
+  <img src="screenshots/1000056927.png" width="30%" />
+</p>
