@@ -1,4 +1,4 @@
-# Legacy Android System Contributions (2016 - 2019) 📱
+# Legacy Android System Contributions (2016 - 2018) 📱
 
 Before transitioning to Cloud & NLP Research, my technical journey started with system-level tinkering on the Android ecosystem. I was actively involved in rooting, flashing, and beta-testing custom software for various devices.
 
